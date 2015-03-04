@@ -1,0 +1,24 @@
+c:\users\jean not\documents\visual studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\bin\Debug\ExerciciosListaUFC.exe.config
+c:\users\jean not\documents\visual studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\bin\Debug\ExerciciosListaUFC.exe
+c:\users\jean not\documents\visual studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\bin\Debug\ExerciciosListaUFC.pdb
+c:\users\jean not\documents\visual studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.csprojResolveAssemblyReference.cache
+c:\users\jean not\documents\visual studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.Form1.resources
+c:\users\jean not\documents\visual studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.Properties.Resources.resources
+c:\users\jean not\documents\visual studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.csproj.GenerateResource.Cache
+c:\users\jean not\documents\visual studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.exe
+c:\users\jean not\documents\visual studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.pdb
+c:\users\jean not\documents\visual studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.Exercicio1.resources
+C:\Users\Jean Not\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.Exercicio2.resources
+C:\Users\Jean Not\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.Exercicio3.resources
+C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\bin\Debug\ExerciciosListaUFC.exe.config
+C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.exe
+C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.pdb
+C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\bin\Debug\ExerciciosListaUFC.exe
+C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\bin\Debug\ExerciciosListaUFC.pdb
+C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.csprojResolveAssemblyReference.cache
+C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.Exercicio1.resources
+C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.Exercicio2.resources
+C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.Exercicio3.resources
+C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.Form1.resources
+C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.Properties.Resources.resources
+C:\Users\JCNOT\Documents\Visual Studio 2013\Projects\ExerciciosListaUFC\ExerciciosListaUFC\obj\Debug\ExerciciosListaUFC.csproj.GenerateResource.Cache
